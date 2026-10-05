@@ -5,3 +5,4 @@ tournent pas autour du Soleil en suivant des trajectoires circulaires parfaites,
 Le carré de la période sidérale T {\displaystyle T} d'une planète (temps entre deux passages successifs 
 devant une étoile) est directement proportionnel au cube du demi-grand axe a {\displaystyle a} de la 
 trajectoire elliptique de la planète
+Il est mort en 1630
