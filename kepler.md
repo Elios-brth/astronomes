@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Johannes Kepler (ou Keppler), né le 27 décembre 1571 et mort le 15 novembre 1630
 =======
-Johannes Kepler (ou Keppler), né le 27 janvier 1571 et mort le 15 novembre 1630
+Johannes Kepler (ou Keppler), né le 27 décembre 1571 et mort le 15 novembre 1630
 >>>>>>> newton
 est un astronome allemand célèbre pour avoir étudié l'hypothèse héliocentrique de Nicolas Copernic
 affirmant que la Terre tourne autour du Soleil, et surtout pour avoir découvert que les planètes ne
